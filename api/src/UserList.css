@@ -1,0 +1,25 @@
+.user-list-container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .user-item {
+    list-style-type: none;
+    background-color: #f3f3f3;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-item strong {
+    font-size: 1.2em;
+    color: #333;
+  }
+  
